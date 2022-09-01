@@ -3,20 +3,19 @@ import "./experience.css";
 import Skills from "./Skills";
 
 const frontend_skills = [
-  { id: "s1", title: "HTML", level: "Experienced" },
-  { id: "s2", title: "JavaScript", level: "Experienced" },
-  { id: "s3", title: "Tailwind", level: "Basic" },
-  { id: "s4", title: "CSS", level: "Experienced" },
-  { id: "s5", title: "Bootstrap", level: "Basic" },
-  { id: "s6", title: "React", level: "Intermediate" },
+  { id: "s1", title: "HTML", level: "Basic" },
+  { id: "s2", title: "CSS", level: "Basic" },
+  { id: "s3", title: "JavaScript", level: "Basic" },
+  { id: "s4", title: "React", level: "Basic" },
+  { id: "s5", title: "TypeScript", level: "Basic" },
 ];
 
 const backend_skills = [
-  { id: "s1", title: "Node JS", level: "Experienced" },
-  { id: "s2", title: "PHP", level: "Experienced" },
-  { id: "s3", title: "Python", level: "Basic" },
-  { id: "s4", title: "MongoDB", level: "Experienced" },
-  { id: "s5", title: "MySQL", level: "Basic" },
+  { id: "s1", title: "Microsoft Office Suite", level: "Experienced" },
+  { id: "s2", title: "Xero", level: "Experienced" },
+  { id: "s3", title: "MYOB", level: "Intermediate" },
+  { id: "s4", title: "Oracle", level: "Intermediate" },
+  { id: "s5", title: "Power BI", level: "Basic" },
 ];
 
 function Experience() {
@@ -36,7 +35,7 @@ function Experience() {
         </div>
 
         <div className="experience__backend">
-          <h3>Backend Development</h3>
+          <h3>Other</h3>
           <div className="experience__content">
             {backend_skills.map((skill) => (
               <Skills key={skill.id} title={skill.title} level={skill.level} />
