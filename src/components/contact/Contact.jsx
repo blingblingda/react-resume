@@ -2,7 +2,6 @@ import React, { useRef } from "react";
 import "./contact.css";
 import { MdOutlineEmail } from "react-icons/md";
 import { RiMessengerLine } from "react-icons/ri";
-import { BsWhatsapp } from "react-icons/bs";
 import ContactOption from "./ContactOption";
 import emailjs from "emailjs-com";
 
@@ -20,13 +19,6 @@ const contactOptions = [
     title: "Messenger",
     content: "egatortutorials",
     address: "http://m.me/ernest.achiever",
-  },
-  {
-    id: 3,
-    icon: <BsWhatsapp />,
-    title: "WhatsApp",
-    content: "+123456789",
-    address: "https://api.whatsapp.com/send?phone=+123456789",
   },
 ];
 

@@ -1,0 +1,58 @@
+.page_nav {
+  padding: 4rem 1rem;
+}
+
+.page_nav ul {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+}
+
+.page_nav h1 {
+  font-size: 1.7rem;
+}
+
+.page_nav li:first-child {
+  flex-basis: auto;
+  text-align: left;
+  margin-right: auto;
+}
+
+.page_nav span:first-child {
+  font-size: 1.5rem;
+  color: var(--color-primary);
+}
+
+.page_nav a {
+  color: white;
+  display: block;
+}
+
+.page_nav a:hover {
+  color: var(--color-primary);
+}
+
+.nav_icon {
+  font-size: 1.3rem;
+}
+
+.nav_btn {
+  padding: 0.2rem 0.7rem;
+}
+
+.nav_btn:hover {
+  background: var(--color-bg-variant);
+  color: var(--color-primary-variant);
+  border-color: transparent;
+}
+
+/* ========== Media Queries (Medium Devices) ========== */
+
+@media screen and (max-width: 1024px) {
+  .page_nav li:first-child {
+    flex-basis: 100%;
+    text-align: center;
+  }
+}

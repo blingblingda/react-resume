@@ -11,7 +11,7 @@ function Nav() {
   const [activeNav, setActiveNav] = useState("#");
 
   return (
-    <nav>
+    <nav className="navbar">
       <a
         href="#"
         onClick={() => {
