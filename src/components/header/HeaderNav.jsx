@@ -20,10 +20,10 @@ const HeaderNav = () => {
           </h1>
         </li>
         <li>
-          <a href="#">Projects</a>
+          <a href="#portfolio">Projects</a>
         </li>
         <li>
-          <a href="#">About</a>
+          <a href="#about">About</a>
         </li>
         <li>
           <a href="#contact">Contact</a>

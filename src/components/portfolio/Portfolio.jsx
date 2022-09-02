@@ -1,50 +1,39 @@
 import React from "react";
 import "./portfolio.css";
 import Application from "./Application";
-import IMG from "../../assets/application.jpeg";
+import AdoptMe from "../../assets/app-adoptMe.png";
+import FoodOrder from "../../assets/app-foodOrder.png";
+import SpendingTracker from "../../assets/app-monthlySpendingTracker.png";
+import Snake from "../../assets/app-snake.png";
 
 const apps = [
   {
     id: 1,
-    image: IMG,
-    title: "Adopt me!",
-    github: "http://www.github.com",
-    demo: "http://www.google.com",
+    image: AdoptMe,
+    title: "Adopt Me",
+    github: "https://github.com/blingblingda/adopt-me",
+    demo: "https://blingblingda.github.io/adopt-me",
   },
   {
     id: 2,
-    image: IMG,
+    image: FoodOrder,
     title: "A food order app",
-    github: "http://www.github.com",
-    demo: "http://www.google.com",
+    github: "https://github.com/blingblingda/food-order",
+    demo: "https://blingblingda.github.io/food-order",
   },
   {
     id: 3,
-    image: IMG,
-    title: "Account Book",
-    github: "http://www.github.com",
-    demo: "http://www.google.com",
+    image: SpendingTracker,
+    title: "Monthly Spending Tracker",
+    github: "https://github.com/blingblingda/monthly-spending-tracker",
+    demo: "https://blingblingda.github.io/monthly-spending-tracker/",
   },
   {
     id: 4,
-    image: IMG,
+    image: Snake,
     title: "Snake",
-    github: "http://www.github.com",
-    demo: "http://www.google.com",
-  },
-  {
-    id: 5,
-    image: IMG,
-    title: "Login Page",
-    github: "http://www.github.com",
-    demo: "http://www.google.com",
-  },
-  {
-    id: 6,
-    image: IMG,
-    title: "Adopt me!",
-    github: "http://www.github.com",
-    demo: "http://www.google.com",
+    github: "https://github.com/blingblingda/snake",
+    demo: "https://blingblingda.github.io/snake/",
   },
 ];
 

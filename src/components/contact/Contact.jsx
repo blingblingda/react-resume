@@ -10,15 +10,15 @@ const contactOptions = [
     id: 1,
     icon: <MdOutlineEmail />,
     title: "Email",
-    content: "dummyegator@gmail.com",
-    address: "mailto:dummyegator@gmail.com",
+    content: "belindashan126@hotmail.com",
+    address: "mailto:belindashan126@hotmail.com",
   },
   {
     id: 2,
     icon: <RiMessengerLine />,
     title: "Messenger",
-    content: "egatortutorials",
-    address: "http://m.me/ernest.achiever",
+    content: "belinda",
+    address: "http://m.me/belinda.shan.9",
   },
 ];
 
