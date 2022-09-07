@@ -29,7 +29,10 @@ const HeaderNav = () => {
           <a href="#contact">Contact</a>
         </li>
         <li className="nav_icon">
-          <a href="www.linkedin.com/in/belinda-shan-126bs414" target="_blank">
+          <a
+            href="https://www.linkedin.com/in/belinda-shan-126bs414"
+            target="_blank"
+          >
             <BsLinkedin />
           </a>
         </li>
