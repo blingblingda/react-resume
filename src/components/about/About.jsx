@@ -2,8 +2,8 @@ import React from "react";
 import "./about.css";
 import ME from "../../assets/me-about.jpeg";
 import { FaAward } from "react-icons/fa";
-import { FiUsers } from "react-icons/fi";
-import { VscFolderLibrary } from "react-icons/vsc";
+import { GiBookCover } from "react-icons/gi";
+import { RiTeamFill } from "react-icons/ri";
 
 function About() {
   return (
@@ -22,27 +22,23 @@ function About() {
           <div className="about__cards">
             <article className="about__card">
               <FaAward className="about__icon" />
-              <h5>Experience</h5>
-              <small>3+ Years Working</small>
+              <h5>Multi-industry work experiences</h5>
             </article>
             <article className="about__card">
-              <FiUsers className="about__icon" />
-              <h5>Clients</h5>
-              <small>300+ Worldwide</small>
+              <GiBookCover className="about__icon" />
+              <h5>A curious and fast learner</h5>
             </article>
             <article className="about__card">
-              <VscFolderLibrary className="about__icon" />
-              <h5>Projects</h5>
-              <small>80+ Completed</small>
+              <RiTeamFill className="about__icon" />
+              <h5>A good team worker</h5>
             </article>
           </div>
 
           <p>
-            Breaking up content into paragraphs helps make a page more
-            accessible. Screen-readers and other assistive technology provide
-            shortcuts to let their users skip to the next or previous paragraph,
-            letting them skim content like how white space lets visual users
-            skip around.
+            A highly motivated, creative and fast learner who is committed to
+            top-quality work. Personable and industrious with various working
+            experiences. I am currently working on improving my JavaScript
+            skills by building various projects to enhance my abilities.
           </p>
 
           <a href="#contact" className="btn btn-primary">

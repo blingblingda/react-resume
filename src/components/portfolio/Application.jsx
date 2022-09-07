@@ -8,6 +8,7 @@ const Application = (props) => {
         <img src={props.image} alt={props.title} />
       </div>
       <h3>{props.title}</h3>
+      <p>{props.tech}</p>
       <div className="portfolio__item-cta">
         <a href={props.githubLink} className="btn" target="_blank">
           Github

@@ -7,13 +7,12 @@ const HeaderIntro = () => {
       <p class="name">
         Hello, my name is <span>Belinda Shan</span>
       </p>
-      <h2>I build websites.</h2>
-      <p>I'm specializing in HTML, CSS, React, and user experience.</p>
-      <br />
+      <h2>I build things for the web.</h2>
+      <p>I'm a self-taught front-end developer.</p>
       <p>
-        Currently, I'm making a career switch from an accountant to a front-end
-        developer.
+        Currently, I'm making a career change from an accountant to a developer.
       </p>
+      <p>Now I'm focus on front-end development skills learning.</p>
     </section>
   );
 };

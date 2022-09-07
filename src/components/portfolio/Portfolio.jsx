@@ -11,6 +11,7 @@ const apps = [
     id: 1,
     image: AdoptMe,
     title: "Adopt Me",
+    tech: "HTML5 CSS3 JAVASCRIPT REACT",
     github: "https://github.com/blingblingda/adopt-me",
     demo: "https://blingblingda.github.io/adopt-me",
   },
@@ -18,6 +19,7 @@ const apps = [
     id: 2,
     image: FoodOrder,
     title: "A food order app",
+    tech: "HTML5 CSS3 REACT",
     github: "https://github.com/blingblingda/food-order",
     demo: "https://blingblingda.github.io/food-order",
   },
@@ -25,6 +27,7 @@ const apps = [
     id: 3,
     image: SpendingTracker,
     title: "Monthly Spending Tracker",
+    tech: "HTML5 CSS3 REACT",
     github: "https://github.com/blingblingda/monthly-spending-tracker",
     demo: "https://blingblingda.github.io/monthly-spending-tracker/",
   },
@@ -32,6 +35,7 @@ const apps = [
     id: 4,
     image: Snake,
     title: "Snake",
+    tech: "HTML5 CSS3 TYPESCRIPT",
     github: "https://github.com/blingblingda/snake",
     demo: "https://blingblingda.github.io/snake/",
   },
@@ -49,6 +53,7 @@ function Portfolio() {
             key={app.id}
             image={app.image}
             title={app.title}
+            tech={app.tech}
             githubLink={app.github}
             demoLink={app.demo}
           />

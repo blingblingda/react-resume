@@ -7,6 +7,11 @@
   border: 0.4rem solid var(--color-primary-variant);
 }
 
+.client__avatar img {
+  width: 118%;
+  object-fit: cover;
+}
+
 .testimonial {
   background: var(--color-bg-variant);
   text-align: center;
