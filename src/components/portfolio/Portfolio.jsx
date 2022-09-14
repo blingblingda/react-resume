@@ -36,8 +36,8 @@ const apps = [
     image: Snake,
     title: "Snake",
     tech: "HTML5 CSS3 TYPESCRIPT",
-    github: "https://github.com/blingblingda/snake",
-    demo: "https://blingblingda.github.io/snake/",
+    github: "https://github.com/blingblingda/snake-game",
+    demo: "https://blingblingda.github.io/snake-game/",
   },
 ];
 
