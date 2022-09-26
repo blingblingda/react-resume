@@ -34,7 +34,7 @@ const clients = [
     img: AVTR3,
     name: "Amy (Client)",
     comment:
-      "Belinda is an extremely responsible consultant. She is good at making the most appropriate application plan according to my personal situation and application needs. She showed excellent communication and coordination skills, and was able to deal with and listen to every key point patiently. She is a very professional and trustworthy consultant.",
+      "Thanks Belinda for giving me advices of courses and universities selection. The whole process from course application to visa application was really smooth and efficient. As a student studying nursing at VIC, I can say it's one of the best decisions I have made. I am enjoying my uni life in Melbourne!.",
   },
 ];
 
