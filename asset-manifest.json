@@ -1,23 +1,21 @@
 {
   "files": {
-    "main.css": "/react-resume-belinda/static/css/main.7e31c016.css",
-    "main.js": "/react-resume-belinda/static/js/main.b558b235.js",
-    "static/media/app-adoptMe.png": "/react-resume-belinda/static/media/app-adoptMe.f22339b8dc3c1249fb1b.png",
-    "static/media/app-foodOrder.png": "/react-resume-belinda/static/media/app-foodOrder.a2af6c04d71a55d0a860.png",
-    "static/media/me-about.jpeg": "/react-resume-belinda/static/media/me-about.044bfbcd9c820ce487b4.jpeg",
-    "static/media/cv.pdf": "/react-resume-belinda/static/media/cv.97d13b54cba9dd9c2f58.pdf",
-    "static/media/avatar4.webp": "/react-resume-belinda/static/media/avatar4.1f3d5e5859a33c9cd4a5.webp",
-    "static/media/avatar3.webp": "/react-resume-belinda/static/media/avatar3.82d97a4f358cee8c56a7.webp",
-    "static/media/avatar1.webp": "/react-resume-belinda/static/media/avatar1.798f3b44d0a739d30e64.webp",
-    "static/media/app-monthlySpendingTracker.png": "/react-resume-belinda/static/media/app-monthlySpendingTracker.2a1f55efcafae5b236dd.png",
-    "static/media/avatar2.webp": "/react-resume-belinda/static/media/avatar2.04112e978feddbc171ff.webp",
-    "static/media/app-snake.png": "/react-resume-belinda/static/media/app-snake.1a5c56e4a8dc88e929b1.png",
+    "main.css": "/react-resume-belinda/static/css/main.4a0e4615.css",
+    "main.js": "/react-resume-belinda/static/js/main.d3f3b812.js",
+    "static/media/app-adoptMe.png": "/react-resume-belinda/static/media/app-adoptMe.6931a228b20c3cc32b61.png",
+    "static/media/app-foodOrder.png": "/react-resume-belinda/static/media/app-foodOrder.8ab8ad02aef268f3551d.png",
+    "static/media/cv.pdf": "/react-resume-belinda/static/media/cv.95c542266316a86b4c01.pdf",
+    "static/media/me-about.PNG": "/react-resume-belinda/static/media/me-about.dd73fe49c53632c6de2f.PNG",
+    "static/media/avatar2.png": "/react-resume-belinda/static/media/avatar2.eae5cde10be321e98880.png",
+    "static/media/app-monthlySpendingTracker.png": "/react-resume-belinda/static/media/app-monthlySpendingTracker.4cc8990e75884056e530.png",
+    "static/media/avatar3.jpeg": "/react-resume-belinda/static/media/avatar3.1f5528e9fddaaff1da6d.jpeg",
+    "static/media/app-snake.png": "/react-resume-belinda/static/media/app-snake.a376c5a3b51599449b31.png",
     "index.html": "/react-resume-belinda/index.html",
-    "main.7e31c016.css.map": "/react-resume-belinda/static/css/main.7e31c016.css.map",
-    "main.b558b235.js.map": "/react-resume-belinda/static/js/main.b558b235.js.map"
+    "main.4a0e4615.css.map": "/react-resume-belinda/static/css/main.4a0e4615.css.map",
+    "main.d3f3b812.js.map": "/react-resume-belinda/static/js/main.d3f3b812.js.map"
   },
   "entrypoints": [
-    "static/css/main.7e31c016.css",
-    "static/js/main.b558b235.js"
+    "static/css/main.4a0e4615.css",
+    "static/js/main.d3f3b812.js"
   ]
 }
