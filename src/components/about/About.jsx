@@ -36,9 +36,8 @@ function About() {
 
           <p>
             A highly motivated, creative and fast learner who is committed to
-            top-quality work. Personable and industrious with various working
-            experiences. I am currently working on improving my JavaScript
-            skills by building various projects to enhance my abilities.
+            top-quality work. Personable and industrious with extensive work
+            experience. I enjoy continuously building my skills through a variety of project work.
           </p>
 
           <a href="#contact" className="btn btn-primary">
