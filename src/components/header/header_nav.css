@@ -1,4 +1,4 @@
-.page_nav {
+/* .page_nav {
   padding: 4rem 1rem;
 }
 
@@ -45,14 +45,14 @@
 .nav_btn:hover {
   background: var(--color-bg-variant);
   color: var(--color-primary-variant);
-  border-color: transparent;
+  border-color: transparent; */
 }
 
 /* ========== Media Queries (Medium Devices) ========== */
 
-@media screen and (max-width: 1024px) {
+/* @media screen and (max-width: 1024px) {
   .page_nav li:first-child {
     flex-basis: 100%;
     text-align: center;
   }
-}
+} */

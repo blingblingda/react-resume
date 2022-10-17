@@ -1,5 +1,4 @@
 import React from "react";
-import "./header_intro.css";
 
 const HeaderIntro = () => {
   return (

@@ -1,0 +1,28 @@
+$primary: #4db5ff;
+$info: #ccd6f6;
+$light: rgba(255, 255, 255, 0.6);
+
+@import "../node_modules/bootstrap/scss/functions";
+@import "../node_modules/bootstrap/scss/variables";
+
+$custom-colors: (
+    "primary-variant":rgba(77, 181, 225, 0.4),
+    "info-variant":#a8b2d1,
+    "bgc":#1f1f38,
+    "bgc-variant":#2c2c6c,
+    "white":#fff
+);
+
+$theme-colors: map-merge($custom-colors, $theme-colors);
+
+@import "../node_modules/bootstrap/scss/bootstrap.scss"
+
+
+// --color-bg: #1f1f38;
+// --color-bg-variant: #2c2c6c;
+// --color-primary: #4db5ff;
+// --color-primary-variant: rgba(77, 181, 225, 0.4);
+// --color-highlight: #ccd6f6;
+// --color-highlight-variant: #a8b2d1;
+// --color-white: #fff;
+// --color-light: rgba(255, 255, 255, 0.6);
