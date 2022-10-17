@@ -1,5 +1,4 @@
 import React from "react";
-import "./nav.css";
 import { AiOutlineHome } from "react-icons/ai";
 import { AiOutlineUser } from "react-icons/ai";
 import { BiBook } from "react-icons/bi";
@@ -11,6 +10,7 @@ function Nav() {
   const [activeNav, setActiveNav] = useState("#");
 
   return (
+
     <nav className="navbar">
       <a
         href="#"

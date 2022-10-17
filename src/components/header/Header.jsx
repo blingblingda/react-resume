@@ -5,7 +5,7 @@ import HeaderIntro from "./HeaderIntro";
 function Header() {
   return (
     <header>
-      <div className="container">
+      <div className="container bg-bgc">
         <HeaderNav />
         <HeaderIntro />
       </div>
