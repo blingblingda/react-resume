@@ -1,21 +1,22 @@
 {
   "files": {
     "main.css": "/react-resume-belinda/static/css/main.4a0e4615.css",
-    "main.js": "/react-resume-belinda/static/js/main.3319986a.js",
-    "static/media/app-adoptMe.png": "/react-resume-belinda/static/media/app-adoptMe.6931a228b20c3cc32b61.png",
+    "main.js": "/react-resume-belinda/static/js/main.161e2ce2.js",
+    "static/media/app-adoptMe.png": "/react-resume-belinda/static/media/app-adoptMe.ed1021536f3a45447b6b.png",
     "static/media/app-foodOrder.png": "/react-resume-belinda/static/media/app-foodOrder.8ab8ad02aef268f3551d.png",
-    "static/media/cv.pdf": "/react-resume-belinda/static/media/cv.3f8f2fc527ca1edf48b0.pdf",
     "static/media/me-about.PNG": "/react-resume-belinda/static/media/me-about.dd73fe49c53632c6de2f.PNG",
     "static/media/avatar2.png": "/react-resume-belinda/static/media/avatar2.eae5cde10be321e98880.png",
     "static/media/app-monthlySpendingTracker.png": "/react-resume-belinda/static/media/app-monthlySpendingTracker.4cc8990e75884056e530.png",
+    "static/media/app-simpleShell.png": "/react-resume-belinda/static/media/app-simpleShell.60d6ef9de0dba8125c65.png",
+    "static/media/belinda_shan_cv.pdf": "/react-resume-belinda/static/media/belinda_shan_cv.7b0b9cac8a5b9dd57461.pdf",
     "static/media/avatar3.jpeg": "/react-resume-belinda/static/media/avatar3.1f5528e9fddaaff1da6d.jpeg",
     "static/media/app-snake.png": "/react-resume-belinda/static/media/app-snake.a376c5a3b51599449b31.png",
     "index.html": "/react-resume-belinda/index.html",
     "main.4a0e4615.css.map": "/react-resume-belinda/static/css/main.4a0e4615.css.map",
-    "main.3319986a.js.map": "/react-resume-belinda/static/js/main.3319986a.js.map"
+    "main.161e2ce2.js.map": "/react-resume-belinda/static/js/main.161e2ce2.js.map"
   },
   "entrypoints": [
     "static/css/main.4a0e4615.css",
-    "static/js/main.3319986a.js"
+    "static/js/main.161e2ce2.js"
   ]
 }
