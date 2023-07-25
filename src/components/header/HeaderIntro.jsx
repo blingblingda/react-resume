@@ -8,8 +8,9 @@ const HeaderIntro = () => {
         Hello, my name is <span>Belinda Shan</span>
       </p>
       <h2>I build things for the web.</h2>
-      <p>I'm an accountant turned and self-taught front-end developer.</p>
-      <p>Now I'm focusing on building my skills in front-end development.</p>
+      <p>I am a software engineering student at Holberton School.</p>
+      <p>I have a background in accounting and finance.</p>
+      <p>Now I'm focusing on building my skills in web development.</p>
     </section>
   );
 };

@@ -3,7 +3,7 @@ import "./header_nav.css";
 import { BsLinkedin } from "react-icons/bs";
 import { FaGithub } from "react-icons/fa";
 import { BiWinkSmile } from "react-icons/bi";
-import CV from "../../assets/cv.pdf";
+import CV from "../../assets/belinda_shan_cv.pdf";
 
 const HeaderNav = () => {
   return (

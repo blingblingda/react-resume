@@ -37,7 +37,9 @@ function About() {
           <p>
             A highly motivated, creative and fast learner who is committed to
             top-quality work. Personable and industrious with extensive work
-            experience. I enjoy continuously building my skills through a variety of project work.
+            experience. Eager to embrace new challenges and continuously enhance
+            web development skills. Seeking opportunities to contribute to
+            innovative projects as a developer.
           </p>
 
           <a href="#contact" className="btn btn-primary">

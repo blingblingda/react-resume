@@ -3,11 +3,14 @@ import "./experience.css";
 import Skills from "./Skills";
 
 const frontend_skills = [
-  { id: "s1", title: "HTML5", level: "Basic" },
-  { id: "s2", title: "CSS3", level: "Basic" },
-  { id: "s3", title: "JavaScript", level: "Basic" },
-  { id: "s4", title: "React", level: "Basic" },
-  { id: "s5", title: "TypeScript", level: "Basic" },
+  { id: "s1", title: "HTML", level: "Intermediate" },
+  { id: "s2", title: "CSS", level: "Intermediate" },
+  { id: "s3", title: "React", level: "Basic" },
+  { id: "s4", title: "JavaScript", level: "Intermediate" },
+  { id: "s5", title: "C", level: "Intermediate" },
+  { id: "s6", title: "Python", level: "Basic" },
+  { id: "s7", title: "MySQL", level: "Basic" },
+  { id: "s7", title: "Git", level: "Basic" },
 ];
 
 const backend_skills = [
@@ -26,7 +29,7 @@ function Experience() {
 
       <div className="container experience__container">
         <div className="experience__frontend">
-          <h3>Frontend Development</h3>
+          <h3>Technical skills</h3>
           <div className="experience__content">
             {frontend_skills.map((skill) => (
               <Skills key={skill.id} title={skill.title} level={skill.level} />
@@ -35,7 +38,7 @@ function Experience() {
         </div>
 
         <div className="experience__backend">
-          <h3>Other</h3>
+          <h3>Other skills</h3>
           <div className="experience__content">
             {backend_skills.map((skill) => (
               <Skills key={skill.id} title={skill.title} level={skill.level} />
