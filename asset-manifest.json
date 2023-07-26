@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-resume-belinda/static/css/main.4a0e4615.css",
-    "main.js": "/react-resume-belinda/static/js/main.161e2ce2.js",
+    "main.js": "/react-resume-belinda/static/js/main.58c1c804.js",
     "static/media/app-adoptMe.png": "/react-resume-belinda/static/media/app-adoptMe.ed1021536f3a45447b6b.png",
     "static/media/app-foodOrder.png": "/react-resume-belinda/static/media/app-foodOrder.8ab8ad02aef268f3551d.png",
     "static/media/me-about.PNG": "/react-resume-belinda/static/media/me-about.dd73fe49c53632c6de2f.PNG",
@@ -13,10 +13,10 @@
     "static/media/app-snake.png": "/react-resume-belinda/static/media/app-snake.a376c5a3b51599449b31.png",
     "index.html": "/react-resume-belinda/index.html",
     "main.4a0e4615.css.map": "/react-resume-belinda/static/css/main.4a0e4615.css.map",
-    "main.161e2ce2.js.map": "/react-resume-belinda/static/js/main.161e2ce2.js.map"
+    "main.58c1c804.js.map": "/react-resume-belinda/static/js/main.58c1c804.js.map"
   },
   "entrypoints": [
     "static/css/main.4a0e4615.css",
-    "static/js/main.161e2ce2.js"
+    "static/js/main.58c1c804.js"
   ]
 }
