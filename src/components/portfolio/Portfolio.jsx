@@ -6,6 +6,7 @@ import FoodOrder from "../../assets/app-foodOrder.png";
 import SpendingTracker from "../../assets/app-monthlySpendingTracker.png";
 import Snake from "../../assets/app-snake.png";
 import Shell from "../../assets/app-simpleShell.png";
+import Tulip from "../../assets/app-tullip.png";
 
 const apps = [
   {
@@ -46,6 +47,13 @@ const apps = [
     title: "Simple Shell",
     tech: "C",
     github: "https://github.com/belindaHBTN/holbertonschool-simple_shell",
+  },
+  {
+    id: 6,
+    image: Tulip,
+    title: "Tulip",
+    tech: "HTML JavaScript Tailwind",
+    github: "https://tulip-fe.onrender.com/",
   },
 ];
 
