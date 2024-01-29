@@ -34,14 +34,6 @@ const apps = [
     demo: "https://blingblingda.github.io/monthly-spending-tracker/",
   },
   {
-    id: 4,
-    image: Snake,
-    title: "Snake",
-    tech: "HTML5 CSS3 TYPESCRIPT",
-    github: "https://github.com/blingblingda/snake-game",
-    demo: "https://blingblingda.github.io/snake-game/",
-  },
-  {
     id: 5,
     image: Shell,
     title: "Simple Shell",
