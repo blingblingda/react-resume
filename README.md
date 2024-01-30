@@ -15,7 +15,7 @@ Welcome to the repository of my personal portfolio website. 🌟 This project, b
 
 ## Website
 
-You can check out my portfolio website live at [Belinda Shan | Portfolio](https://blingblingda.github.io/react-resume-belinda).
+You can check out my portfolio website live at [Belinda Shan | Portfolio](https://belinda-shan.onrender.com/).
 
 ![Screenshot](./src/assets/Screenshot.png)
 

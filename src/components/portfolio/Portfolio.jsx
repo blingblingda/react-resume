@@ -4,7 +4,6 @@ import Application from "./Application";
 import AdoptMe from "../../assets/app-adoptMe.png";
 import FoodOrder from "../../assets/app-foodOrder.png";
 import SpendingTracker from "../../assets/app-monthlySpendingTracker.png";
-import Snake from "../../assets/app-snake.png";
 import Shell from "../../assets/app-simpleShell.png";
 import Tulip from "../../assets/app-tullip.png";
 
