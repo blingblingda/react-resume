@@ -16,6 +16,13 @@ import "swiper/css/pagination";
 
 const clients = [
   {
+    id: "avtr3",
+    img: AVTR3,
+    name: "Adam Martuccio (Holberton Manager)",
+    comment:
+      "Working with Belinda over her 9 months at Holberton was an absolute joy. She tackled every challenge with a can-do attitude, swiftly picking up new technologies and diving into problem-solving like a natural. What really stood out was her team spirit and eagerness to collaborate, always ready to lend a hand and push projects over the finish line. Watching her come into her own and shine at her demo day was incredibly inspiring. Belinda's journey of growth and her ability to adapt to any challenge thrown her way has been nothing short of impressive.",
+  },
+  {
     id: "avtr1",
     img: AVTR1,
     name: "Susan (Accounting manager)",
@@ -28,13 +35,6 @@ const clients = [
     name: "Sherry (Colleague)",
     comment:
       "Working with Belinda makes me feel very comfortable, because she has a warm and cheerful personality and is very careful and responsible in her work. She has a strong sense of time and can finish the work on time with quality and quantity. She is also a good team player with excellent team spirit and communication skills.",
-  },
-  {
-    id: "avtr3",
-    img: AVTR3,
-    name: "Amy (Client)",
-    comment:
-      "Thanks Belinda for giving me advices of courses and universities selection. The whole process from course application to visa application was really smooth and efficient. As a student studying nursing at VIC, I can say it's one of the best decisions I have made. I am enjoying my uni life in Melbourne!.",
   },
 ];
 
