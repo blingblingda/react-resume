@@ -30,7 +30,7 @@ const HeaderNav = () => {
         </li>
         <li className="nav_icon">
           <a
-            href="https://www.linkedin.com/in/belinda-shan-126bs414"
+            href="https://www.linkedin.com/in/belinda-shan-dev"
             target="_blank"
           >
             <BsLinkedin />
