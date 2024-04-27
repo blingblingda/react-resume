@@ -5,19 +5,21 @@ import Skills from "./Skills";
 const frontend_skills = [
   { id: "s1", title: "HTML", level: "Intermediate" },
   { id: "s2", title: "CSS", level: "Intermediate" },
-  { id: "s3", title: "React", level: "Basic" },
-  { id: "s4", title: "JavaScript", level: "Intermediate" },
-  { id: "s5", title: "C", level: "Intermediate" },
-  { id: "s6", title: "Python", level: "Basic" },
-  { id: "s7", title: "MySQL", level: "Basic" },
-  { id: "s7", title: "Git", level: "Basic" },
+  { id: "s3", title: "JavaScript", level: "Intermediate" },
+  { id: "s4", title: "TypeScript", level: "Intermediate" },
+  { id: "s5", title: "React", level: "Intermediate" },
+  { id: "s6", title: "Bootstrap", level: "Intermediate" },
+  { id: "s7", title: "Python", level: "Basic" },
+  { id: "s8", title: "C", level: "Basic" },
+  { id: "s9", title: "Docker", level: "Basic" },
+  { id: "s10", title: "Git", level: "Basic" },
 ];
 
 const backend_skills = [
   { id: "s1", title: "Microsoft Office", level: "Experienced" },
   { id: "s2", title: "Xero", level: "Experienced" },
   { id: "s3", title: "MYOB", level: "Intermediate" },
-  { id: "s4", title: "Oracle", level: "Intermediate" },
+  { id: "s4", title: "Oracle", level: "Basic" },
   { id: "s5", title: "Power BI", level: "Basic" },
 ];
 
