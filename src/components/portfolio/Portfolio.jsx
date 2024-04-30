@@ -6,10 +6,25 @@ import FoodOrder from "../../assets/app-foodOrder.png";
 import SpendingTracker from "../../assets/app-monthlySpendingTracker.png";
 import Shell from "../../assets/app-simpleShell.png";
 import Tulip from "../../assets/app-tullip.png";
+import KFCK from "../../assets/app-kfck.png";
 
 const apps = [
   {
     id: 1,
+    image: KFCK,
+    title: "KFCK",
+    tech: "React, TypeScript, Bootstrap",
+    github: "https://kfck.onrender.com/",
+  },
+  {
+    id: 2,
+    image: Tulip,
+    title: "Tulip",
+    tech: "HTML JavaScript Tailwind",
+    github: "https://tulip-fe.onrender.com/",
+  },
+  {
+    id: 3,
     image: AdoptMe,
     title: "Hi Cuties",
     tech: "HTML5 CSS3 JAVASCRIPT REACT",
@@ -17,7 +32,7 @@ const apps = [
     demo: "https://blingblingda.github.io/hi-cuties",
   },
   {
-    id: 2,
+    id: 4,
     image: FoodOrder,
     title: "A Food Order App",
     tech: "HTML5 CSS3 REACT",
@@ -25,7 +40,7 @@ const apps = [
     demo: "https://blingblingda.github.io/food-order",
   },
   {
-    id: 3,
+    id: 5,
     image: SpendingTracker,
     title: "Monthly Spending Tracker",
     tech: "HTML5 CSS3 REACT",
@@ -33,18 +48,11 @@ const apps = [
     demo: "https://blingblingda.github.io/monthly-spending-tracker/",
   },
   {
-    id: 5,
+    id: 6,
     image: Shell,
     title: "Simple Shell",
     tech: "C",
     github: "https://github.com/belindaHBTN/holbertonschool-simple_shell",
-  },
-  {
-    id: 6,
-    image: Tulip,
-    title: "Tulip",
-    tech: "HTML JavaScript Tailwind",
-    github: "https://tulip-fe.onrender.com/",
   },
 ];
 
