@@ -20,22 +20,21 @@ const BeginnerCourses = [
   },
 ];
 const ProfessionalCourses = [
-  { id: "s1", content: "Getting Started with CSS" },
+  { id: "s1", content: "CSS Grid & Flexbox for Responsive Layouts" },
   { id: "s2", content: "Getting Started with JavaScript" },
   { id: "s3", content: "JavaScript: From fundamentals to functional JS" },
   { id: "s4", content: "Website Accessibility" },
   { id: "s5", content: "Deep JavaScript Foundations" },
   { id: "s6", content: "Complete Intro React" },
   { id: "s7", content: "Web Performance Fundamentals" },
-  { id: "s8", content: "CSS Grid & Flexbox for Responsive Layouts" },
 ];
 const OtherCourses = [
   {
     id: "s1",
-    content: "React Development - General Assembly",
+    content: "React Bootcamp - General Assembly",
   },
-  { id: "s2", content: "Intro Git & Github - Udemy" },
-  { id: "s3", content: "CS50’s Introduction to Computer Science - HarvardX" },
+  { id: "s2", content: "CS50’s Introduction to Computer Science - HarvardX" },
+  { id: "s1", content: "Intro Git & Github - Udemy" },
 ];
 
 function Services() {

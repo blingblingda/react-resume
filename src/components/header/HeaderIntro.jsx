@@ -8,12 +8,12 @@ const HeaderIntro = () => {
         Hello, my name is <span>Belinda Shan</span>
       </p>
       <h2>I make websites.</h2>
-      <p>I'm a front-end React developer.</p>
+      <p>I'm a front-end developer.</p>
       <p>
         I like to craft solid and scalable front-end products with great user
         experiences.
       </p>
-      <p>I have a background in accounting and finance.</p>
+      <p>I have a background in accounting and commerce.</p>
       <p>Welcome to my digital garden. 🌱</p>
     </section>
   );
